@@ -1,4 +1,4 @@
-package com.example.easy_challenge;
+package com.example.easy_challenge.easy;
 
 public class HowMuchTrue {
 
